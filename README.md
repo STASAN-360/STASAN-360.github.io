@@ -1,3 +1,3 @@
-# Резальтуты по практическим занятия курса от glo-academy "веб-разработчик"
+# Results about practical lesson from course "web-developer" by Glo-Academy
 
-[Урок 9](https://stasan-360.github.io/lesson_9/ "Миллион на верстке")
+[Lesson 9](https://stasan-360.github.io/lesson_9/ "Million on HTML and CSS")
